@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.latte</groupId>
+  <artifactId>lucenego</artifactId>
+  <version>1.0.0-BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160504.054826</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160504054826</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>1.0.0-BUILD-20160504.054826-1</value>
+        <updated>20160504054826</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-BUILD-20160504.054826-1</value>
+        <updated>20160504054826</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
